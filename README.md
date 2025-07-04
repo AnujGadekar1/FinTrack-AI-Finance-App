@@ -75,7 +75,7 @@ This project showcases expertise across:
 ### Database
 - PostgreSQL
 
-### AI/ML
+### LLM
 - Google Gemini API
 
 ### DevOps & Tools
